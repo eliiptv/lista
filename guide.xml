@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 SD">
+    <display-name lang="pt">HBO 2 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180611183500 -0300" stop="20180611202000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Quero Matar meu Chefe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180611202000 -0300" stop="20180611220000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Floresta Maldita</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180611220000 -0300" stop="20180612000000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Annabelle 2: A Criação do Mal</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180611183500 -0300" stop="20180611202000 -0300" channel="HBO 2 SD">
+    <title lang="pt">Quero Matar meu Chefe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180611202000 -0300" stop="20180611220000 -0300" channel="HBO 2 SD">
+    <title lang="pt">Floresta Maldita</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180611220000 -0300" stop="20180612000000 -0300" channel="HBO 2 SD">
+    <title lang="pt">Annabelle 2: A Criação do Mal</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+</tv>
