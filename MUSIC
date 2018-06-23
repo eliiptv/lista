@@ -4,6 +4,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="VIP",A&E
 http://canaisiptv.gigaddns.com.br:25461/live/marcospaulo/Q542n5jL6e/38695.playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="VIP",A&E HD
 http://canaisiptv.gigaddns.com.br:25461/live/marcospaulo/Q542n5jL6e/38694.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="VIP",AMC
