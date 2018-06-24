@@ -1,1 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes mares" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAIS: ABERTO",Globo TV Verdes mares
+http://painel.iptvmove.com:80/live/samuel001/1234/7442.ts
