@@ -1,6 +1,10 @@
 #EXTM3U
-
 #EXTM3U
+#PLAYLIST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.icon-icons.com/icons2/10/PNG/256/refresh_arrow_1546.png" group-title="INFORMACOES",LISTA ELI = Atualizada 29/jun/2018 17:58
+http://www.tv-msn.com/player/player.swf
+
 #EXTINF:-1 tvg-id="" tvg-name="+ Globo Sat" tvg-logo="" group-title="CANAIS: VARIEDADES",+ Globo Sat
 http://painel.iptvmove.com:80/live/J2t68CJtaV/RvLPFPCYLG/7438.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="CANAIS: DOCUMENTARIOS",A&E
