@@ -7,3 +7,17 @@ http://cdn.iptvbr.tv:8080/live/AppVIP/admin@smtpturbo.com/191.m3u8?
 
 #EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", Globo RJ HD
 http://cdn.iptvbr.tv:8080/live/AppVIP/admin@smtpturbo.com/191.m3u8
+
+#EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD
+http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.m3u8?md5=rn_W2C92UQQtuz8VzfL7qw&expires=1530898768&u=6560939&p=8126075&dd=6560939&devicetype=smart
+
+#EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 1
+http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.m3u8?
+
+#EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 2
+http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.ts?
+
+#EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 3
+http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.m3u8?md5=rn_W2C92UQQtuz8VzfL7qw&expires=1530898768&u=6560939&p=8126075&dd=6560939&devicetype=smart
+#EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 4
+http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd-15177.ts
