@@ -11,13 +11,12 @@ http://cdn.iptvbr.tv:8080/live/AppVIP/admin@smtpturbo.com/191.m3u8
 #EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD
 http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.m3u8?md5=rn_W2C92UQQtuz8VzfL7qw&expires=1530898768&u=6560939&p=8126075&dd=6560939&devicetype=smart
 
-#EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 1
-http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.m3u8?
+#EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", tc HD 1
+http://flussonic3.cdniptv.com:9088//hls/ms_tc_action.m3u8?md5=3RU43cH-zCCu-2vh8gHAtQ&expires=1530907282&u=6068626&p=6451452&dd=6068626&devicetype=smart
 
 #EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 2
-http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.ts?
+http://cdn.iptvbr.tv:8080/live/AppVIP/admin@smtpturbo.com/194.m3u8
 
 #EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 3
 http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.m3u8?md5=rn_W2C92UQQtuz8VzfL7qw&expires=1530898768&u=6560939&p=8126075&dd=6560939&devicetype=smart
-#EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 4
-http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd-15177.ts
+#EXTINF:-1 tvg-logo="http://cdn.iptvbr.tv:8080/hlsr/TRoNUhJREQkSAAcEUANUBgJTBwAEB1cIXQEJCwECAQECXgNQUghWC1FEG0NBFUBVUgw8DAIXDAldURQRRkVVRmlRARFbGwcFEkoVFVsMVxIJUU9HFlxSGl5HAAYHBxIYFF0dRwRLXVJcOVMERAhRVRFbDRAKWRoaCwtnV1ZbUVpSGl8RURsfEVkVR0MIQ3BCWhICCwNBFmsBF05aUFlDFFJdRWcEVVZQXwtCD1sCU1NcBBBFKkFSWUZJGlFaQkJVQl1HCUMLBAUCRBtDUQ5HXkcTGkdcF3RqRkkaVktCVVpFUQpdQwMRXgMTD0MeQ1tDbBMGFhJHU1kJAEoRCRQBFhoaCFIZZlBcXghSAkYIXV5AQ1lHVhcaGgkKVlpHWUJrRlEBEVsbAgQDVgBDTw==/AppVIP/admin@smtpturbo.com/194/915af35276cd24c66889d6fa855616a1/194_1012.ts
