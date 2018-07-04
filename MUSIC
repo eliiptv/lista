@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ibtspalmas.files.wordpress.com/2013/04/icone-refresh.png" group-title="ELISTA", 04/07/2018
+#EXTINF:-1 tvg-logo="https://ibtspalmas.files.wordpress.com/2013/04/icone-refresh.png" group-title="ELISTA", 05/07/2018
 #EXTM3U
 
 
@@ -22,3 +22,443 @@ https://xcode.gcdn.co/090/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD 3
 http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.m3u8?md5=rn_W2C92UQQtuz8VzfL7qw&expires=1530898768&u=6560939&p=8126075&dd=6560939&devicetype=smart
 #EXTINF:-1 tvg-logo="
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP HD" tvg-logo="http://t.likeiptv.com/BANDHD.png" group-title="Duostation",Band
+http://xcode.gcdn.co/081/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Duostation",Globo SP
+http://xcode.gcdn.co/020/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo Rio HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Duostation",Globo Rio
+http://xcode.gcdn.co/021/myStream/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Duostation",Record
+http://xcode.gcdn.co/109/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV HD" tvg-logo="http://t.likeiptv.com/redetv10.png" group-title="Duostation",Rede TV
+http://xcode.gcdn.co/063/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV HD" tvg-logo="http://t.likeiptv.com/redetv10.png" group-title="Duostation",Rede TV Alternativo
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Recife HD" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Duostation",SBT
+http://xcode.gcdn.co/084/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TV Tribuna PE" tvg-name="SBT Recife HD" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Duostation",SBT Recife HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1692704869_b216000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="TV Diário Mogi das Cruzes" tvg-logo="https://goo.gl/LcY1gz" group-title="Duostation", TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://goo.gl/aX1uEA" group-title="Duostation", CULTURA
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="BandNews" tvg-name="Band News HD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Duostation",Band News
+http://xcode.gcdn.co/032/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News SD" tvg-logo="http://t.likeiptv.com/GLOBONEWS.png" group-title="Duostation",Globo New
+http://xcode.gcdn.co/013/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/190px-Logotipo_da_Record_News.png" group-title="Duostation", RECORD NEWS
+http://xcode.gcdn.co/049/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/190px-Logotipo_da_Record_News.png" group-title="Duostation" , RECORD NEWS Alternativo
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="GloboSat" tvg-name="+GloboSat" group-title="Duostation" , +GloboSat
+http://xcode.gcdn.co/073/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="RPC TV" group-title="Duostation" , RPC TV
+http://xcode.gcdn.co/095/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="" group-title="Duostation",Comedy Central
+http://xcode.gcdn.co/030/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA!" group-title="Duostation", CURTA!
+http://xcode.gcdn.co/014/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Chef TV" tvg-name="Chef TV" group-title="Duostation" , Chef TV
+http://xcode.gcdn.co/062/myStream/playlist.m3u8
+ 
+ 
+ 
+ 
+ 
+######################################################################################################################################## documentario
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://t.likeiptv.com/animalplanethd.png" group-title="Duostation",Animal Planet
+http://xcode.gcdn.co/017/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://t.likeiptv.com/discoverychannel.png" group-title="Duostation",Discovery Channel
+http://xcode.gcdn.co/c011/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="" group-title="Duostation",DISCOVERY CIVILIZATION
+http://xcode.gcdn.co/050/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health SD" tvg-logo="http://t.likeiptv.com/discoverryhome.png" group-title="Duostation",Discovery Home & Health
+http://xcode.gcdn.co/c013/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID" group-title="Duostation", ID
+http://xcode.gcdn.co/056/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://t.likeiptv.com/discoverryscience.png" group-title="Duostation",Discovery Science
+http//paraisotv.ddns.net/074/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="http://t.likeiptv.com/Discoverytheater.png" group-title="Duostation",Discovery Theater
+http://switch01-trwj4dm.stackpathdns.com/028/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://t.likeiptv.com/discoverryturbo.png" group-title="Duostation",Discovery Turbo
+http://xcode.gcdn.co/026/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="http://t.likeiptv.com/discoverworld.png" group-title="Duostation",Discovery World
+http://xcode.gcdn.co/094/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="History" tvg-logo="" group-title="Duostation" ,HISTORY
+http://xcode.gcdn.co/024/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 SD" tvg-logo="http://t.likeiptv.com/h2.PNG" group-title="Duostation",H2
+http://xcode.gcdn.co/054/myStream/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo=""group-title="Duostation" ,NAT GEO
+http://xcode.gcdn.co/101/myStream/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="" group-title="Duostation",NAT GEO WILD
+http://xcode.gcdn.co/082/myStream/playlist.m3u8
+ 
+ 
+ 
+######################################################################################################################################## esportes
+ 
+ 
+ 
+#EXTINF:-1  tvg-logo="http://s20.postimg.org/7j60cwlfx/allspots.png" group-title="Duostation", All Sports BR
+ 
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports SD" tvg-logo="http://t.likeiptv.com/bandsport.png" group-title="Duostation",Band Sports
+ 
+http://xcode.gcdn.co/c015/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://t.likeiptv.com/combate.png" group-title="Duostation",Combate
+ 
+http://xcode.gcdn.co/016/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="Maxx" group-title="Duostation" , Maxx
+ 
+http://xcode.gcdn.co/c004/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="Maxx2" group-title="Duostation", Maxx2
+ 
+http://xcode.gcdn.co/c005/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="http://t.likeiptv.com/espnhdbranco.jpg" group-title="Duostation",ESPN
+http://xcode.gcdn.co/c001/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="http://t.likeiptv.com/espnbrasilfullhd.jpg" group-title="Duostation",ESPN Brasil
+http://xcode.gcdn.co/c002/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN  HD" tvg-logo="http://t.likeiptv.com/espnhdbranco.jpg" group-title="Duostation",ESPN +
+http://xcode.gcdn.co/c003/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Esporte Interativo BR" tvg-name="EI Maxx HD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Duostation",Esporte Interativo BR
+http://xcode.gcdn.co/c004/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo SD" tvg-logo="http://t.likeiptv.com/esporteinterativooriginal.jpg" group-title="Duostation",Esporte Interativo
+http://xcode.gcdn.co/048/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Esporte Interativo 2" tvg-name="Esporte Interativo 2" tvg-logo="" group-title="Duostation", Esporte Interativo 2
+http://xcode.gcdn.co/c005/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="" group-title="Duostation",FISH TV
+http://xcode.gcdn.co/108/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports SD" tvg-logo="http://t.likeiptv.com/foxsport.png" group-title="Duostation",Fox Sports
+http://xcode.gcdn.co/036/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 SD" tvg-logo="http://t.likeiptv.com/foxsport2.png" group-title="Duostation",Fox Sports 2
+http://xcode.gcdn.co/c009/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/ooZJBU" group-title="Duostation", NFL(INTERNACIONAL)
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+ 
+#EXTINF:-1 tvg-id="Premiere" tvg-logo="" group-title="Duostation",PREMIERE CLUBE
+http://xcode.gcdn.co/097/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="PREMIERE 1" tvg-name="PFC2" group-title="Duostation", PFC2
+http://xcode.gcdn.co/099/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PFC3" group-title="Duostation", PFC3
+http://xcode.gcdn.co/100/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PFC4" group-title="Duostation" , PFC4
+http://xcode.gcdn.co/110/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PFC5" group-title="Duostation", PFC5
+http://xcode.gcdn.co/044/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PFC6" group-title="Duostation", PFC6
+http://xcode.gcdn.co/042/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="PFC7" group-title="Duostation", PFC7
+http://xcode.gcdn.co/043/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="PFC8" group-title="Duostation" , PFC8
+http://xcode.gcdn.co/041/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="" group-title="Duostation",SPORTV
+http://xcode.gcdn.co/c008/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="" group-title="Duostation",SPORTV 2
+http://xcode.gcdn.co/c007/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="" group-title="Duostation",SPORTV 3
+http://xcode.gcdn.co/c016/myStream/playlist.m3u8
+ 
+####################################################################################################################### filmes e series
+ 
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://t.likeiptv.com/a&ehd.png" group-title="Duostation",A&E
+http://xcode.gcdn.co/031/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="AMC" tvg-logo="" group-title="Duostation",AMC
+http://xcode.gcdn.co/007/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title="Duostation",AXN
+http://xcode.gcdn.co/078/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://t.likeiptv.com/cinemaxhd.png" group-title="Duostation",Cinemax
+http://xcode.gcdn.co/035/myStream/playlist.
+ 
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox SD" tvg-logo="http://t.likeiptv.com/fox.png" group-title="Duostation",Fox
+http://xcode.gcdn.co/064/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://t.likeiptv.com/fxhd.png" group-title="Duostation",FX
+http://xcode.gcdn.co/046/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="FOX ACTION" group-title="Duostation", FOX ACTION
+http://xcode.gcdn.co/019/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FoxLife" tvg-logo="http://t.likeiptv.com/foxlifehdnovo.png" group-title="Duostation",Fox Life
+http://xcode.gcdn.co/083/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="Fox Premium 1 HD" tvg-logo="" group-title="Duostation",Fox Premium 1
+http://xcode.gcdn.co/018/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Duostation",HBO
+http://xcode.gcdn.co/053/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD" tvg-logo="http://t.likeiptv.com/hbo2.png" group-title="Duostation",HBO 2
+http://xcode.gcdn.co/047/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Duostation",HBO Family
+http://xcode.gcdn.co/088/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png" group-title="Duostation",HBO Plus
+http://xcode.gcdn.co/037/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://t.likeiptv.com/hbosignature1.png" group-title="Duostation",HBO Signature
+http://xcode.gcdn.co/071/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png" group-title="Duostation",LIFETIME
+http://xcode.gcdn.co/090/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Max" tvg-name="MAX HD" tvg-logo="http://t.likeiptv.com/maxhd.png" group-title="Duostation",MAX
+http://xcode.gcdn.co/051/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Duostation",Max Prime
+http://xcode.gcdn.co/092/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="Max UP HD" tvg-logo="http://t.likeiptv.com/maxup1.png" group-title="Duostation",Max UP
+http://xcode.gcdn.co/045/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://t.likeiptv.com/megap.png" group-title="Duostation",Megapix
+http://xcode.gcdn.co/033/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount HD" tvg-logo="http://t.likeiptv.com/paramouth.png" group-title="Duostation",Paramount
+http://xcode.gcdn.co/004/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://t.likeiptv.com/canalsonynovo.png" group-title="Duostation",Sony
+http://xcode.gcdn.co/003/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://t.likeiptv.com/space.png" group-title="Duostation",Space
+http://xcode.gcdn.co/029/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="SUniversal" tvg-name="Studio Universal" tvg-logo="http://t.likeiptv.com/studio.png" group-title="Duostation",Studio Universal
+http://xcode.gcdn.co/096/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://t.likeiptv.com/sy.png" group-title="Duostation",SYFY
+http://xcode.gcdn.co/093/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TBS" tvg-logo="" group-title="Duostation",TBS
+http://xcode.gcdn.co/038/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://t.likeiptv.com/tcm.png" group-title="Duostation",TCM
+http://xcode.gcdn.co/039/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action SD" tvg-logo="" group-title="Duostation",Telecine Action
+http://xcode.gcdn.co/068/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult SD" tvg-logo="" group-title="Duostation",Telecine Cult
+http://xcode.gcdn.co/055/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="" group-title="Duostation",Telecine Fun
+http://xcode.gcdn.co/060/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="" group-title="Duostation",Telecine Pipoca
+http://xcode.gcdn.co/065/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="" group-title="Duostation",Telecine Premium
+http://xcode.gcdn.co/069/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="" group-title="Duostation",Telecine Touch
+http://xcode.gcdn.co/102/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Duostation",TNT
+http://xcode.gcdn.co/009/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png" group-title="Duostation",TNT Series
+http://xcode.gcdn.co/025/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="UniversalCH" tvg-name="Universal Channel HD" tvg-logo="" group-title="Duostation",Universal Channel
+http://xcode.gcdn.co/067/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Universal Channel" tvg-logo="https://4.bp.blogspot.com/-REJyS7YoLy0/Whg8y1-JntI/AAAAAAAABV4/lvv4l82gfgUjWjlMqIEVNhxVpY8UirFNACLcBGAs/s1600/warner_channel.png" group-title="Duostation",WARNER
+http://xcode.gcdn.co/080/myStream/playlist.m3u8
+ 
+################################################################################################################################ infantil
+ 
+ 
+#EXTINF:-1 tvg-name="BabyTV" group-title="Duostation" , BabyTV
+http://xcode.gcdn.co/066/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Boomerang SD" tvg-logo="http://t.likeiptv.com/Boomerang.png" group-title="Duostation",Boomerang
+http://xcode.gcdn.co/091/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://t.likeiptv.com/cartoonetwork.png" group-title="Duostation",Cartoon Network
+http://xcode.gcdn.co/027/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="" group-title="Duostation",Discovery Kids
+http://xcode.gcdn.co/c014/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel SD" tvg-logo="http://t.likeiptv.com/disney%20channel.png" group-title="Duostation",Disney Channel
+http://xcode.gcdn.co/075/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney JR SD" tvg-logo="" group-title="Duostation",Disney JR
+http://xcode.gcdn.co/087/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD SD" tvg-logo="http://t.likeiptv.com/disneyxd.png" group-title="Duostation",Disney XD
+http://xcode.gcdn.co/086/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="" group-title="Duostation",Gloob
+http://xcode.gcdn.co/089/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick HD" group-title="Duostation", Nick HD
+http://xcode.gcdn.co/077/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="" group-title="Duostation",NICK JR
+http://xcode.gcdn.co/052/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" group-title="Duostation", Toon Cast
+http://xcode.gcdn.co/085/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" group-title="Duostation", ZooMoo
+http://xcode.gcdn.co/006/myStream/playlist.m3u8
+ 
+########################################################################################################################## religiao
+ 
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://goo.gl/Rpfao2" group-title="Religiao", TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://goo.gl/LFehGd" group-title="Religiao", TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/8bXmzc" group-title="Religiao", Boa vontade HD
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Canção Nova" tvg-logo="https://goo.gl/Gf3Z71" group-title="Religiao", Canção Nova
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-id="Canção Nova" tvg-logo="https://goo.gl/Gf3Z71" group-title="Religiao", Cançao nova SD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_432_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/MyGULR" group-title="Religiao", Demais TV
+http://wz3.dnip.com.br:1935/dmtv/dmtv.sdp/playlist.m3u8?
+ 
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-logo="https://goo.gl/QHci7G" group-title="Religiao", Portal Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/A4w29o" group-title="Religiao", Rede Seculo 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/dje4JW" group-title="Religiao", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://goo.gl/Gd5kuE" group-title="Religiao", Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/zQYLZ4" group-title="Religiao", Sky Gospel
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/VkGxxd" group-title="Religiao", Sobrenatural TV
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/MM37oj" group-title="Religiao", TV Alvorada espirita
+http://abr.732a.upx.net.br:1935/732a_abr/smil:732a.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/VZ4kNs" group-title="Religiao", TV Espirita
+http://45.43.208.2:1935/tveespirita/tveespirita/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/k9BxrQ" group-title="Religiao", TV Gideoes HD
+http://streaming01.zas.media:1935/gideoes/smil:tvgideoes.smil/chunklist_w1898729655_b1296000.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/k9BxrQ" group-title="Religiao", TV Gideoes SD
+http://streaming01.zas.media:1935/gideoes/smil:tvgideoes.smil/chunklist_w1898729655_b596000.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/52PYM4" group-title="Religiao", TV Jesus
+http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://goo.gl/WFypc8" group-title="Religiao", TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+ 
+########################################################################################################################## variedade
+ 
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Duostation",BIS
+http://xcode.gcdn.co/061/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="" group-title="Duostation",E!
+http://xcode.gcdn.co/070/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK" tvg-logo="" group-title="Duostation",FOOD NETWORK
+http://xcode.gcdn.co/c012/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="" group-title="Duostation",GNT
+http://xcode.gcdn.co/075/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Multishow"  tvg-logo="" group-title="Duostation",MULTISHOW
+http://xcode.gcdn.co/022/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="MTV" tvg-logo="" group-title="Duostation",MTV
+http://xcode.gcdn.co/072/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TLC" tvg-logo="" group-title="Duostation",TLC
+http://xcode.gcdn.co/034/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TruTV" tvg-logo="" group-title="Duostation",TRUTV
+http://xcode.gcdn.co/103/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Duostation",VH1 MEGAHITS
+http://xcode.gcdn.co/040/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Viva" tvg-logo="" group-title="Duostation",VIVA
+http://xcode.gcdn.co/079/myStream/playlist.m3u8
+ 
+######################################################################################################################################## htv
+ 
