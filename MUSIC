@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", Globo RJ HD
-http://cdn.iptvbr.tv:8080/hlsr/TRoNUhJREQkSAAcEUANUBgJTBwAEB1cIXQEJCwECAQECXgNQUghWC1FEG0NBFUBVUgw8DAIXDAldURQRRkVVRmlRARFbGwcFEkoVFVsMVxIJUU9HFlxSGl5HAAYHBxIYFF0dRwRLXVJcOVMERAhRVRFbDRAKWRoaCwtnV1ZbUVpSGl8RURsfEVkVR0MIQ3BCWhICCwNBFmsBF05aUFlDFFJdRWcEVVZQXwtCD1sCU1NcBBBFKkFSWUZJGlFaQkJVQl1HCUMLBAUCRBtDUQ5HXkcTGkdcF3RqRkkaVktCVVpFUQpdQwMRXgMTD0MeQ1tDbBMGFhJHU1kJAEoRCRQBFhoaCFIZZlBcXghSAkYIXV5AQ1lHVhcaGgkKVlpHWUJrRlEBEVsbAgQDVgBDTw==/AppVIP/admin@smtpturbo.com/194/915af35276cd24c66889d6fa855616a1/194_1012.ts
+http://flussonic3.cdniptv.com:9088/hls/ms_tc_action.m3u8?md5=XjG_hJ30ebAPbawB_YnkxA&expires=1531070760&u=8260339&p=3267099&dd=8260339&devicetype=smart_massoud
 
 #EXTINF:-1 tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo", BIS HD
 http://flussonic3.cdniptv.com:9088/hls/ms_bis_hd.m3u8?md5=rn_W2C92UQQtuz8VzfL7qw&expires=1530898768&u=6560939&p=8126075&dd=6560939&devicetype=smart
